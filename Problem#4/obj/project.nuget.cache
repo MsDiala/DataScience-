@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAXxpxkqsZVEVKuzzjFXz1eYKXUkznbrB6RDGQGhe7W3yDdSJ2oDbIH9PO3IUiLiS6BKmrQOCh1NU8C4voE6Dw==",
+  "success": true,
+  "projectFilePath": "/Users/home/progressSoft/Problem#4/Problem#4.fsproj",
+  "expectedPackageFiles": [
+    "/Users/home/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
